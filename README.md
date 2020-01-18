@@ -8,6 +8,8 @@
 
 [Python 3 Tutorial @programiz](https://www.programiz.com/python-programming/tutorial)
 
+[Introduction to Python 3 (basics) - Learning to Program with Python 3](https://pythonprogramming.net/introduction-learn-python-3-tutorials/)
+
 [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
 
 [Python Homepage](https://www.python.org/)
