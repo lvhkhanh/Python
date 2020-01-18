@@ -2,6 +2,8 @@
 
 [Learn Python: Syntax](https://www.codecademy.com/learn/paths/computer-science)
 
+[Python 3 Tutorial @Sololearn](https://www.sololearn.com/Play/Python/)
+
 [Python 3 Tutorial](https://www.tutorialspoint.com/python3/index.htm)
 
 [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
