@@ -2,6 +2,8 @@
 
 [Introduction to Programming in Python using Media Computation](https://stepik.org/course/62197)
 
+[UCSD CSE 11](https://stepik.org/course/62773)
+
 [Learn Python: Syntax](https://www.codecademy.com/learn/paths/computer-science)
 
 [Python 3 Tutorial @Sololearn](https://www.sololearn.com/Play/Python/)
