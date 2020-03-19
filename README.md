@@ -1,6 +1,8 @@
 # Python
 
-https://www.codecademy.com/learn/learn-python-3
+## https://www.codecademy.com/learn/learn-python-3
+
+https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-syntax/cheatsheet
 
 [Introduction to Programming in Python using Media Computation](https://stepik.org/course/62197)
 
