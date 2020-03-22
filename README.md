@@ -30,6 +30,8 @@ https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-syntax/che
 
 ## https://www.codecademy.com/learn/search-algorithms
 
+## https://introcs.cs.princeton.edu/python/home/
+
 [Introduction to Programming in Python using Media Computation](https://stepik.org/course/62197)
 
 [UCSD CSE 11](https://stepik.org/course/62773)
