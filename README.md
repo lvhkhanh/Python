@@ -2,6 +2,20 @@
 
 ## https://www.codecademy.com/learn/learn-python-3
 
+## https://www.codecademy.com/learn/learn-python
+
+## https://www.python.org/
+
+## https://github.com/python
+
+## https://www.w3schools.com/python/
+
+## https://developers.google.com/edu/python
+
+## https://www.learnpython.org/
+
+## https://en.wikipedia.org/wiki/Python_(programming_language)
+
 https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-syntax/cheatsheet
 
 ## https://www.codecademy.com/learn/learn-web-scraping
