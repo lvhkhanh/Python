@@ -83,3 +83,14 @@ https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-syntax/che
 ### https://www.pythonsheets.com/
 ### https://www.pythonforbeginners.com/cheatsheet/
 ### https://programmingwithmosh.com/wp-content/uploads/2019/02/Python-Cheat-Sheet.pdf
+## Best Practices
+### https://data-flair.training/blogs/python-best-practices/
+### https://towardsdatascience.com/30-python-best-practices-tips-and-tricks-caefb9f8c5f5
+### https://realpython.com/tutorials/best-practices/
+### https://gist.github.com/sloria/7001839
+### https://airbrake.io/blog/python/python-best-practices
+### https://docs.python-guide.org/
+### https://docs.python-guide.org/writing/style/
+### https://www.toptal.com/python/tips-and-practices
+### https://www.python.org/dev/peps/pep-0008/
+### https://jaxenter.com/python-tutorial-best-practices-145959.html
