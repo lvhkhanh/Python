@@ -71,3 +71,15 @@ https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-syntax/che
 [Google's Python Class](https://developers.google.com/edu/python)
 
 [Python Succinctly](https://www.syncfusion.com/ebooks/python)
+
+
+## Cheat Sheets
+### https://github-production-release-asset-2e65be.s3.amazonaws.com/29447438/1da4d7ca-6837-11e6-8ab3-ae7821a7032a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200409%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200409T103235Z&X-Amz-Expires=300&X-Amz-Signature=157e9a13ac4907cc3ef19a66ca39d9bdb6b6da0e5ceeab774e59bdfa29352414&X-Amz-SignedHeaders=host&actor_id=919300&repo_id=29447438&response-content-disposition=attachment%3B%20filename%3Dbeginners_python_cheat_sheet_pcc_all.pdf&response-content-type=application%2Foctet-stream
+### https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf
+### https://www.pythoncheatsheet.org/
+### https://ehmatthes.github.io/pcc/cheatsheets/README.html
+### https://sinxloud.com/python-cheat-sheet-beginner-advanced/
+### https://www.datacamp.com/community/data-science-cheatsheets
+### https://www.pythonsheets.com/
+### https://www.pythonforbeginners.com/cheatsheet/
+### https://programmingwithmosh.com/wp-content/uploads/2019/02/Python-Cheat-Sheet.pdf
