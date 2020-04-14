@@ -7,9 +7,11 @@
 ### https://www.datacamp.com/tracks/career?embedded=true#section-python
 ### https://www.datacamp.com/courses/intro-to-python-for-data-science
 
-## https://www.codecademy.com/learn/learn-python
+### https://www.codecademy.com/learn/learn-python
 
-## https://www.python.org/
+## Assessments
+### https://learn.datacamp.com/assessments
+### https://app.pluralsight.com/score/skill-assessment/python/intro?context=search
 
 ## https://github.com/python
 
