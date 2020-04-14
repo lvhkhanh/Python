@@ -13,6 +13,11 @@
 ### https://learn.datacamp.com/assessments
 ### https://app.pluralsight.com/score/skill-assessment/python/intro?context=search
 
+## Paths
+### https://app.pluralsight.com/paths/skill/python
+### https://app.pluralsight.com/paths/skill/interpreting-data-with-python
+### https://app.pluralsight.com/paths/skill/python-for-data-analysts
+
 ## https://github.com/python
 
 ## Tutorials
