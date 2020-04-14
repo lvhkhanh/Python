@@ -9,14 +9,24 @@
 
 ### https://www.codecademy.com/learn/learn-python
 
-## Assessments
-### https://learn.datacamp.com/assessments
-### https://app.pluralsight.com/score/skill-assessment/python/intro?context=search
-
 ## Paths
 ### https://app.pluralsight.com/paths/skill/python
 ### https://app.pluralsight.com/paths/skill/interpreting-data-with-python
 ### https://app.pluralsight.com/paths/skill/python-for-data-analysts
+
+## Assessments
+### https://learn.datacamp.com/assessments
+### https://app.pluralsight.com/score/skill-assessment/python/intro?context=search
+### https://www.testdome.com/tests/python-online-test/45
+### https://www.tutorialspoint.com/python/python_online_test.htm
+### https://www.hackerearth.com/challenges/competitive/mock-online-coding-assessments-easy-python/
+### https://realpython.com/quizzes/
+### https://skillvalue.com/companies/en/python-developers-assessment/
+### https://tests4geeks.com/python-online-test
+### https://www.interviewmocha.com/pre-employment-testing/python
+### https://www.codeassess.com/python.aspx
+### https://www.techbeamers.com/best-python-programming-online-test/
+
 
 ## https://github.com/python
 
