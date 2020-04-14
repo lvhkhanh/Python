@@ -1,6 +1,7 @@
 # Python
-
-## https://www.codecademy.com/learn/learn-python-3
+## Courses
+### https://www.codecademy.com/learn/learn-python-3
+### https://www.datacamp.com/courses/intro-to-python-for-data-science
 
 ## https://www.codecademy.com/learn/learn-python
 
@@ -8,13 +9,17 @@
 
 ## https://github.com/python
 
-## https://www.w3schools.com/python/
+## Tutorials
 
-## https://developers.google.com/edu/python
+## https://www.w3schools.com/python/
 
 ## https://www.learnpython.org/
 
-## https://en.wikipedia.org/wiki/Python_(programming_language)
+## https://developers.google.com/edu/python
+
+## Readings
+
+### https://en.wikipedia.org/wiki/Python_(programming_language)
 
 https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-syntax/cheatsheet
 
