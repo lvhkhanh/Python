@@ -1,6 +1,9 @@
 # Python
+## Official
+### https://www.python.org/
 ## Courses
 ### https://www.codecademy.com/learn/learn-python-3
+### https://www.codecademy.com/catalog/language/python
 ### https://www.datacamp.com/courses/intro-to-python-for-data-science
 
 ## https://www.codecademy.com/learn/learn-python
