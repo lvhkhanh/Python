@@ -36,6 +36,11 @@
 #### sphinx-apidoc --full -o docspath codepath
 ### pip install mypy
 #### mypy codepath
+### pip install virtualenv 
+### pip install virtualenvwrapper
+### pipenv
+### poetry
+### anaconda 
 
 ## Assessments
 ### https://learn.datacamp.com/assessments
