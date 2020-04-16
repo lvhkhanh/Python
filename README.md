@@ -34,6 +34,8 @@
 #### modify conf.py
 #### make clean html
 #### sphinx-apidoc --full -o docspath codepath
+### pip install mypy
+#### mypy codepath
 
 ## Assessments
 ### https://learn.datacamp.com/assessments
