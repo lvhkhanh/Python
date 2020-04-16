@@ -14,8 +14,12 @@
 ### https://app.pluralsight.com/paths/skill/interpreting-data-with-python
 ### https://app.pluralsight.com/paths/skill/python-for-data-analysts
 
+## PEPs
+### PEP8
+### PEP257
+
 ## Tools
-### PyCharm
+### choco install pycharm
 ### pip install pylint
 #### pylint codepath
 #### pylint --generrte-rcfile > pylintrc
@@ -23,6 +27,13 @@
 #### pycodestyle codepath
 ### pip install black
 #### black codepath
+### pip install sphinx
+#### sphinx-quickstart
+#### make html
+#### sphinx-apidoc -o docspath codepath
+#### modify conf.py
+#### make clean html
+#### sphinx-apidoc --full -o docspath codepath
 
 ## Assessments
 ### https://learn.datacamp.com/assessments
