@@ -27,7 +27,7 @@
 #### pycodestyle codepath
 ### pip install black
 #### black codepath
-### pip install sphinx
+### Documentation: pip install sphinx
 #### sphinx-quickstart
 #### make html
 #### sphinx-apidoc -o docspath codepath
@@ -41,6 +41,13 @@
 ### pipenv
 ### poetry
 ### anaconda 
+### Desktop, GUI: Tkinter, Kivy
+### Desktop, Packaging: pyz, py2app/py2exe, pyInstaller
+### Web Application: Flask, Django
+### Unit Testing: unittest, pytest
+### Behavior Testing: behave
+### Documentation: Sphinx, pydoc
+### Cookiecutter
 
 ## Assessments
 ### https://learn.datacamp.com/assessments
