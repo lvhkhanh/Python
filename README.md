@@ -2,6 +2,7 @@
 ## Official
 ### https://www.python.org/
 ## Courses
+### https://learn.datacamp.com/career-tracks/data-scientist-with-python
 ### https://www.udacity.com/course/ai-programming-python-nanodegree--nd089
 ### https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104
 ### https://www.udacity.com/course/introduction-to-python--ud1110
