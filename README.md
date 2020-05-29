@@ -1,6 +1,8 @@
 # Python
 ## Official
 ### https://www.python.org/
+## Ebooks
+### https://www.syncfusion.com/ebooks/python
 ## Courses
 ### https://learn.datacamp.com/career-tracks/data-scientist-with-python
 ### https://www.udacity.com/course/ai-programming-python-nanodegree--nd089
@@ -14,9 +16,13 @@
 ### https://www.pluralsight.com/search?q=python
 
 ## Paths
+### https://app.pluralsight.com/search/?q=python&type=path
 ### https://app.pluralsight.com/paths/skill/python
 ### https://app.pluralsight.com/paths/skill/interpreting-data-with-python
 ### https://app.pluralsight.com/paths/skill/python-for-data-analysts
+
+## Skill Assessment
+### https://app.pluralsight.com/score/skill-assessment/python/intro?context=search
 
 ## PEPs
 ### PEP8
