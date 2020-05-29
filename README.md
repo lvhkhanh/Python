@@ -1,6 +1,11 @@
 # Python
 ## Official
+### https://docs.python.org/3/tutorial/
+### https://wiki.python.org/moin/BeginnersGuide
+### https://www.python.org/about/gettingstarted/
 ### https://www.python.org/
+### https://www.python.org/downloads/
+### https://www.python.org/doc/
 ## Ebooks
 ### https://www.syncfusion.com/ebooks/python
 ## Courses
