@@ -9,6 +9,7 @@
 ## Ebooks
 ### https://www.syncfusion.com/ebooks/python
 ## Courses
+### https://app.pluralsight.com/library/courses/core-python-classes-object-orientation/table-of-contents
 ### https://learn.datacamp.com/career-tracks/data-scientist-with-python
 ### https://www.udacity.com/course/ai-programming-python-nanodegree--nd089
 ### https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104
