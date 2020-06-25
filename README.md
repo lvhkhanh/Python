@@ -8,6 +8,8 @@
 ### https://www.python.org/doc/
 ## Ebooks
 ### https://www.syncfusion.com/ebooks/python
+## Paths
+### https://www.codecademy.com/paths/finance-python/tracks/introduction-to-python-for-finance/modules/why-python-finance/lessons/why-python-finance/exercises/python-calculating-npv
 ## Courses
 ### https://www.codecademy.com/paths/analyze-data-with-python/tracks/ida-1-introduction-to-data-analysis/modules/ida-1-1-why-data-analysis/lessons/day-in-the-life-data-analyst/exercises/explore-sql
 ### https://app.pluralsight.com/library/courses/core-python-classes-object-orientation/table-of-contents
