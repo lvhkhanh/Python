@@ -9,6 +9,7 @@
 ## Ebooks
 ### https://www.syncfusion.com/ebooks/python
 ## Courses
+### https://www.codecademy.com/paths/analyze-data-with-python/tracks/ida-1-introduction-to-data-analysis/modules/ida-1-1-why-data-analysis/lessons/day-in-the-life-data-analyst/exercises/explore-sql
 ### https://app.pluralsight.com/library/courses/core-python-classes-object-orientation/table-of-contents
 ### https://learn.datacamp.com/career-tracks/data-scientist-with-python
 ### https://www.udacity.com/course/ai-programming-python-nanodegree--nd089
