@@ -32,6 +32,7 @@
 ### https://app.pluralsight.com/paths/skill/python-for-data-analysts
 
 ## Skill Assessment
+### https://assessment.datacamp.com/python-programming
 ### https://app.pluralsight.com/score/skill-assessment/python/intro?context=search
 
 ## PEPs
