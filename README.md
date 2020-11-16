@@ -8,6 +8,7 @@
 ### https://www.python.org/doc/
 ## Ebooks
 ### https://www.syncfusion.com/ebooks/python
+### [Clean Code in Python](https://subscription.packtpub.com/book/application_development/9781788835831 )
 ## Paths
 ### https://www.codecademy.com/paths/visualize-data-with-python/tracks/introduction-to-python-dvp/modules/introduction-to-data-visualization/lessons/why-data-visualization/exercises/process-visualizing
 ### https://www.codecademy.com/paths/finance-python/tracks/introduction-to-python-for-finance/modules/why-python-finance/lessons/why-python-finance/exercises/python-calculating-npv
