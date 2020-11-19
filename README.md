@@ -18,7 +18,7 @@
 ### https://learn.datacamp.com/career-tracks/data-scientist-with-python
 ### https://www.udacity.com/course/ai-programming-python-nanodegree--nd089
 ### https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104
-### https://www.udacity.com/course/introduction-to-python--ud1110
+### [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) 5weeks
 ### https://www.codecademy.com/catalog/language/python
 #### https://www.codecademy.com/learn/learn-python-3
 ### https://www.datacamp.com/tracks/career?embedded=true#section-python
