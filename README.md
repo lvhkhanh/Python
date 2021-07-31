@@ -7,6 +7,7 @@
 ### https://www.python.org/downloads/
 ### https://www.python.org/doc/
 ## Ebooks
+- [ ] https://subscription.packtpub.com/book/web-development/9781788831345/1/ch01lvl1sec13/what-is-a-pattern
 ### https://www.syncfusion.com/ebooks/python
 ### [Clean Code in Python](https://subscription.packtpub.com/book/application_development/9781788835831 )
 ## Paths
