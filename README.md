@@ -6,6 +6,15 @@
 ### https://www.python.org/
 ### https://www.python.org/downloads/
 ### https://www.python.org/doc/
+## Notes
+`
+self # NOT this
+_varProtected
+__varPrivate # obj._ClassName__varPrivate
+@property # getter,accessor
+@propertyName.setter # mutator
+
+`
 ## Ebooks
 - [ ] https://subscription.packtpub.com/book/web-development/9781788831345/1/ch01lvl1sec13/what-is-a-pattern
 ### https://www.syncfusion.com/ebooks/python
