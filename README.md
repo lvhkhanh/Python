@@ -103,7 +103,12 @@ __varPrivate # obj._ClassName__varPrivate
 
 ## Tutorials
 
-## https://www.w3schools.com/python/
+- [ ] https://www.codecademy.com/learn/learn-python-3
+
+- [ ] [Python Tutorial](https://www.w3schools.com/python/) https://www.w3schools.com/python/
+
+- [ ] https://www.coursera.org/specializations/python
+
 
 ## https://www.learnpython.org/
 
@@ -160,8 +165,6 @@ https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-syntax/che
 [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
 
 [Python Homepage](https://www.python.org/)
-
-[Python Tutorial](https://www.w3schools.com/python/)
 
 [Learn Python 2](https://www.codecademy.com/learn/learn-python)
 
