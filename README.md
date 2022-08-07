@@ -200,4 +200,6 @@ https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-syntax/che
 ```
 list0.remove("value")
 value = list1.pop(index)
+list0.sort()
+list1 = sorted(list0)
 ```
