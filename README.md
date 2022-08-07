@@ -196,3 +196,8 @@ https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-syntax/che
 ### https://jaxenter.com/python-tutorial-best-practices-145959.html
 ## Next
 ### [Data Analyst](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+
+```
+list0.remove("value")
+value = list1.pop(index)
+```
