@@ -24,10 +24,7 @@ __varPrivate # obj._ClassName__varPrivate
 ### https://www.codecademy.com/paths/finance-python/tracks/introduction-to-python-for-finance/modules/why-python-finance/lessons/why-python-finance/exercises/python-calculating-npv
 ## Courses
 
-- [ ] https://www.codecademy.com/learn/learn-python-3
-- [ ] Python for Beginners
-- [ ] Python Data Structures
-- [ ] Python for Data Science
+- [x] https://www.codecademy.com/learn/learn-python-3
 ### https://www.codecademy.com/learn/learn-python
 ### https://www.codecademy.com/paths/analyze-data-with-python/tracks/ida-1-introduction-to-data-analysis/modules/ida-1-1-why-data-analysis/lessons/day-in-the-life-data-analyst/exercises/explore-sql
 ### https://app.pluralsight.com/library/courses/core-python-classes-object-orientation/table-of-contents
