@@ -203,4 +203,5 @@ list0.sort()
 list1 = sorted(list0)
 # format string literal
 f"{firstname} ${lastname}"
+multi if vs if elif else
 ```
