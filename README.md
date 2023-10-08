@@ -201,4 +201,6 @@ list0.remove("value")
 value = list1.pop(index)
 list0.sort()
 list1 = sorted(list0)
+# format string literal
+f"{firstname} ${lastname}"
 ```
